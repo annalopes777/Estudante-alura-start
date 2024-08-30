@@ -14,4 +14,4 @@ anna.fernandes.lopes@escola.pr.gov.br
 
 @alurastarestudante 
 
-![]https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThlZDZ3bGFrN3NxYzg3anM5cWhsNzFxdmdxYnB0NXRtYnd0a2M4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1SuVPEuA89S8/giphy.gif
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThlZDZ3bGFrN3NxYzg3anM5cWhsNzFxdmdxYnB0NXRtYnd0a2M4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1SuVPEuA89S8/giphy.gif)
